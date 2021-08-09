@@ -1,7 +1,7 @@
 ﻿using DashFire;
 using Microsoft.Extensions.Hosting;
 
-namespace eCommerceAutomation
+namespace eCommerceAutomation.Service
 {
     class Program
     {

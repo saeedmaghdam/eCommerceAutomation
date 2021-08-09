@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using DashFire;
 using Microsoft.Extensions.Logging;
 
-namespace eCommerceAutomation
+namespace eCommerceAutomation.Service
 {
     public class ProductUpdaterJob : Job
     {
